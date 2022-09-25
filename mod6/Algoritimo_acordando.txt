@@ -1,0 +1,14 @@
+1 - Abrir os olhos
+2 - Virar para o lado
+3 - Pegar o celular
+4 - Ver o horário
+5 - Se tiver mensagem
+	5.1 - Desbloquear o celular
+	5.2 - Abrir o app
+	5.3 - Responder a mensagem
+6 - Se não tiver mensagem colocar o celular de lado
+7 - levantar
+8 - Ir ao banheiro
+9 - Lavar o rosto
+10 - Fazer minhas necessidades
+11 - Descer para tomar café
