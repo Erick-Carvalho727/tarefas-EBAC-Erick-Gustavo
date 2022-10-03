@@ -36,9 +36,22 @@ public class Cliente {
         this.cartao = cartao;
     }
 
+    /**
+     *
+     * Método que cadastra o cartão do cliente
+     *
+     * @param cartao
+     */
+
     public void cadastrarCartao(int cartao){
         setCartao(cartao);
     }
+
+    /**
+     *
+     * Método que imprimi o número do cartão para o cliente
+     *
+     */
 
     public void imprimirCartao() {
         System.out.println("Seu número de cartão é: " + this.cartao);
